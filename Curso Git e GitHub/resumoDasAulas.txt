@@ -1,0 +1,18 @@
+Git e GitHub
+--> Git: gerenciamento e versionamento de código
+
+Comandos básicos do git
+- Mudar de pastas
+- Listar as pastas:
+dir - lista de diretórios
+cd/ - subir descer entre os directórios 
+cd .. - voltar pra base
+cls - limpar o terminal 
+tab - autocompletar
+
+- Criar pastas/arquivos
+mkdir nomedapasta
+depois 
+cd nomedapasta e enter
+echo - printa de volta oq você escrever no terminal
+echo oqueescreveu >  oqueescreveu.txt - Coloca dentro do arquivo
