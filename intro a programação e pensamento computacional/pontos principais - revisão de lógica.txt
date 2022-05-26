@@ -1,0 +1,21 @@
+revisão de logica
+
+while - enquanto
+
+
+grama = falso
+while (grama==falso){
+}
+
+FOR para>>>de>>>até
+
+somatório = 0 
+
+for(inicio 1 a10) {
+}
+
+VETORES E MATRIZES
+
+vetor = variavél com um tamanho definido
+matriz = tabela organizada em linhas e colunas
+m x n sendo m = linhas e n = colunas (coleção de vetores)
